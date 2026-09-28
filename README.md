@@ -15,4 +15,4 @@ Programming Language(s) & Source / Version Code Management
 Simulation and CAD Design
 - Computational Fluid Dynamics and Finite Elemenet Analysis
 - AutoCAD Electrical, SolidWorks Electrical, TinkerCAD, KiCAD
-- AutoCAD (Certified 2026), SoliidWorks (Certified 2027), CREO
+- AutoCAD (Certified 2026), SolidWorks (Certified 2027), CREO
